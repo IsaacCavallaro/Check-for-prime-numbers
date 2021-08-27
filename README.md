@@ -4,6 +4,7 @@
 
 - This is a breakdown of my solution to the above code kata.
 - After completing the kata, I implemented some basic testing using jest.
+- Click [here](https://github.com/IsaacCavallaro/Square-n-Sum/blob/main/squareNsum.test.js) for the tests code.
 
 ---
 
